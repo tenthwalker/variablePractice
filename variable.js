@@ -4,3 +4,6 @@ var programTrack = "front end"
 var cohort = 2308
 var tuition = 23800
 var gradYear = 2024
+var loanAccepted = true
+var laptopReceived = true
+var classStarted = true
