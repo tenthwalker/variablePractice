@@ -7,3 +7,9 @@ var gradYear = 2024
 var loanAccepted = true
 var laptopReceived = true
 var classStarted = true
+var email = "luthien.tinuviel17@gmail.com"
+var name = "Abigail"
+var programTrack = "back end"
+console.log(email)
+console.log(name)
+console.log(programTrack)
